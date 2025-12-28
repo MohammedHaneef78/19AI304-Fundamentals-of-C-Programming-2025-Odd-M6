@@ -33,7 +33,16 @@ To develop a C program using the static storage class in a function with a param
 ### Step 8:
   Stop
 # Program:
+<img width="802" height="569" alt="iapr6-1pro" src="https://github.com/user-attachments/assets/88053170-5427-4868-b6ec-bb458d4d1937" />
+
+
+
+
 # Output:
+<img width="800" height="159" alt="iapr6-1out" src="https://github.com/user-attachments/assets/ecc84acc-c97b-41aa-9632-3fad6359790d" />
+
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -79,7 +88,22 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11:
   Stop
 # Program:
+<img width="738" height="579" alt="iapr6-2 1pro" src="https://github.com/user-attachments/assets/7e1001f4-f580-4179-8b49-fccc51fe5147" />
+
+
+
+
+<img width="790" height="453" alt="iapr6-2 2pro" src="https://github.com/user-attachments/assets/726d9bb9-3a81-48d0-ba66-ea4fb69d3cbf" />
+
+
+
+
+
 # Output:
+<img width="846" height="268" alt="iapr6-2out" src="https://github.com/user-attachments/assets/24dbec50-6aac-4bf7-944f-21f70bc259a8" />
+
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -123,7 +147,21 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+<img width="754" height="587" alt="iapr6-3 1pro" src="https://github.com/user-attachments/assets/86ea615c-62a5-4138-a9ed-a185962592a2" />
+
+
+
+<img width="775" height="482" alt="iapr6-3 2pro" src="https://github.com/user-attachments/assets/0947b5d5-976d-455a-8828-b66975c95fb3" />
+
+
+
 # Output:
+<img width="832" height="441" alt="iapr6-3out" src="https://github.com/user-attachments/assets/9cc8aea5-378e-4714-b7ce-ae4fc8a1a494" />
+
+
+
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -166,7 +204,12 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 9:
   Stop
 # Program:
+<img width="782" height="592" alt="iapr6-4pro" src="https://github.com/user-attachments/assets/2c467383-b9a2-4d26-9533-56290d131a6a" />
+
 # Output:
+<img width="788" height="173" alt="iapr6-4out" src="https://github.com/user-attachments/assets/39258305-3066-4183-986a-333cc2db9d83" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -202,7 +245,12 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+<img width="759" height="482" alt="iapr6-5pro" src="https://github.com/user-attachments/assets/1267de29-0968-4350-a784-a315e60378fd" />
+
+
 # Output:
+<img width="765" height="188" alt="iapr6-5out" src="https://github.com/user-attachments/assets/9d8555dc-400b-4338-8d23-946a9f1ea58c" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
